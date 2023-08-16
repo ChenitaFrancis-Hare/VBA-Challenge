@@ -18,7 +18,10 @@ In this homework assignment, you will use VBA scripting to analyze generated sto
 
 <li> Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once. </li>
 
->Note: Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+>Note:
+<li> Make sure to use conditional formatting that will highlight positive change in green and negative change in red. </li>
+
+<li> Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button. </li>
 
  
   
